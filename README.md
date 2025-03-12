@@ -6,7 +6,7 @@
 
 ## 🌟 About Me  
 
-I am a results-oriented and analytical student with a strong background in data analysis and leadership. Proficient in leveraging **Power BI, SQL, and Excel** to drive business insights and inform strategic decisions. Skilled in **Python** and **GoLang** programming and committed to staying up-to-date with the latest tools and technologies.  
+I am a results-oriented and analytical student skilled deep learning enthusiast with a strong background in Python, SQL, machine learning, and data science. Proficient in developing and deploying deep learning models for various applications, including image processing and predictive analytics. Experienced in leveraging tools like Power BI for data visualization and analysis to derive actionable insights. Passionate about advancing AI-driven solutions to solve real-world problems and committed to staying up-to-date with the latest tools and technologies.  
 
 I have a proven ability to lead teams, communicate effectively, and collaborate with cross-functional stakeholders to achieve common goals. As a quick learner with a passion for continuous improvement, I am driven to make a meaningful impact in fast-paced environments.  
 
